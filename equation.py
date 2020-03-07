@@ -11,7 +11,7 @@ def solve(a,b,c):
         #print("x1=x2=",x1)
         return x1,x2
     else:
-        return("input is wrong!")
+        return("there is no solution!")
 a=float(input("please input a="))
 b=float(input("please input b="))
 c=float(input("please input c="))
